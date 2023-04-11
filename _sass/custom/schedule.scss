@@ -93,15 +93,19 @@
     }
 
     &.lecture {
-      background-color: $grey-dk-000;
+      background-color: #48A366;
     }
-
-    &.section {
-      background-color: $purple-000;
+    &.studio {
+      background-color: #5DF08E;
     }
-
+    &.section-a {
+      background-color: #276EA3;
+    }
+    &.section-b {
+      background-color: #46A6F0;
+    }
     &.office-hours {
-      background-color: $blue-000;
+      background-color: #F08352;
     }
   }
 }

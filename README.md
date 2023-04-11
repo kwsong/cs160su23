@@ -8,32 +8,27 @@ seo:
   name: Just the Class
 ---
 
-# Just the Class
+# CS 160: User Interface Design and Development
+### Summer 2023
 
-Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
+&nbsp;
 
-- [announcements](announcements.md),
-- a [course calendar](calendar.md),
-- a [staff](staff.md) page,
-- and a weekly [schedule](schedule.md).
+CS 160 is the introductory course to the field of Human Computer Interaction (HCI). In this class, students will learn to design, prototype and evaluate user interfaces. Unlike most classes, CS 160 will not focus on any particular set of algorithmic techniques. Instead, students will learn techniques for user-centered interface design (e.g., prototyping, contextual inquiry, heuristic evaluation, etc.). This summer, we will learn how to use front-end web development technologies (HTML, CSS, and JavaScript) and a backend for prototyping.
 
-Just the Class is a template that extends the popular [Just the Docs](https://github.com/just-the-docs/just-the-docs) theme, which provides a robust and thoroughly-tested foundation for your website. Just the Docs include features such as:
+The course features two parts: (1) five weeks of curriculum and practice, and (2) three weeks of a final project.
 
-- automatic [navigation structure](https://just-the-docs.github.io/just-the-docs/docs/navigation-structure/),
-- instant, full-text [search](https://just-the-docs.github.io/just-the-docs/docs/search/) and page indexing,
-- and a set of [UI components](https://just-the-docs.github.io/just-the-docs/docs/ui-components) and authoring [utilities](https://just-the-docs.github.io/just-the-docs/docs/utilities).
+The instructors for this summer’s CS 160 course are Ace Chen, Katherine Song, and Hridhay Suresh.
 
-## Getting Started
+## Upcoming Checkpoints
 
-Getting started with Just the Class is simple.
+This is the authoritative list of upcoming deadlines. Come to lecture and check on this list regularly for updates. Readings are due before class on that day. Other assignments are due at midnight Pacific Time on the end of that day.
 
-1. Create a [new repository based on Just the Class](https://github.com/kevinlin1/just-the-class/generate).
-1. Update `_config.yml` and `README.md` with your course information. [Be sure to update the url and baseurl](https://mademistakes.com/mastering-jekyll/site-url-baseurl/).
-1. Configure a [publishing source for GitHub Pages](https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages). Your course website is now live!
-1. Edit and create `.md` [Markdown files](https://guides.github.com/features/mastering-markdown/) to add more content pages.
+##### Note: Topics and readings may change slightly. Links to slides and studio materials, as well as any recordings, will be posted after the class they are introduced.
 
-Just the Class has been used by instructors at Stanford University ([CS 161](https://stanford-cs161.github.io/winter2021/)), UC Berkeley ([Data 100](https://ds100.org/fa21/)), UC Santa Barbara ([CSW8](https://ucsb-csw8.github.io/s22/)), Northeastern University ([CS4530/5500](https://neu-se.github.io/CS4530-CS5500-Spring-2021/)), and Carnegie Mellon University ([17-450/17-950](https://cmu-crafting-software.github.io/)). Share your course website and find more examples in the [show and tell discussion](https://github.com/kevinlin1/just-the-class/discussions/categories/show-and-tell)!
+{% for module in site.modules %}
+{{ module }}
+{% endfor %}
 
-### Local development environment
+## Credits
 
-Just the Class requires no special Jekyll plugins and can run on GitHub Pages' standard Jekyll compiler. To setup a local development environment, clone your template repository and follow the GitHub Docs on [Testing your GitHub Pages site locally with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll).
+The syllabus, lecture slides, web content, and assignments of this course are only the most recent iterations of a long history of HCI classes. This iteration of the course, at the very least, draws from prior course materials by Shm Almeda, Diyah Mettupalli, Nate Weinmann, Janaki Vivrekar, Sarah Sterman, Andrew Head, Amy Pavel, César Torres, Björn Hartmann, Eric Paulos, Valkyrie Savage, Maneesh Agrawala, Scott Klemmer, John Canny, and James Landay.
