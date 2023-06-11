@@ -25,11 +25,11 @@ schedule:
         start: 11:00 AM
         end: 12:30 PM
         location: Jacobs 310
-      - name: Section A
+      - name: Section (Topic A)
         start: 1:00 PM
         end: 2:00 PM
         location: Soda 306
-      - name: Section A
+      - name: Section (Topic A)
         start: 2:00 PM
         end: 3:00 PM
         location: Soda 320
@@ -39,7 +39,7 @@ schedule:
         start: 11:00 AM
         end: 12:30 PM
         location: Jacobs 310
-      - name: Section A
+      - name: Section (Topic A)
         start: 3:00 PM
         end: 4:00 PM
         location: Soda 306
@@ -49,11 +49,11 @@ schedule:
         start: 11:00 AM
         end: 12:30 PM
         location: Jacobs 310
-      - name: Section B
+      - name: Section (Topic B)
         start: 1:00 PM
         end: 2:00 PM
         location: Soda 306
-      - name: Section B
+      - name: Section (Topic B)
         start: 2:00 PM
         end: 3:00 PM
         location: Soda 320
@@ -63,7 +63,7 @@ schedule:
         start: 11:00 AM
         end: 12:30 PM
         location: Jacobs 310
-      - name: Section B
+      - name: Section (Topic B)
         start: 3:00 PM
         end: 4:00 PM
         location: Soda 306
