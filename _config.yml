@@ -16,7 +16,6 @@
 title: CS 160
 tagline: CS 160 (Summer 2023)
 description: CS 160 Summer 2023
-# author: Kevin Lin
 baseurl: '/cs160su23' # the subpath of your site, e.g. /blog
 url: 'https://kwsong.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]

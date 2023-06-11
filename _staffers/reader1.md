@@ -1,9 +1,10 @@
 ---
-name: Really Evil Kevin
+name: Noah Schwartz
 role: Reader
-email: me@example.com
+email: n0112358@berkeley.edu
 website: https://kevinl.info
 photo: kevin.jpg
+pronouns: any
 ---
 
 I like teaching Computer Science!

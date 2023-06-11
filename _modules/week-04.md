@@ -1,23 +1,25 @@
 ---
-title: Week 4 - Interviewing
+title: Week 4 - Evaluation and Visual Design
 ---
 
-Oct 5
-: [Linked Lists & Encapsulation](#)
-  : [3.1](#), [2.2](#), [2.3](#)
+Mon 7/10
+: **Studio**{: .label .label-studio }Studio 4: Project 3 Workshop, Project 4 Partner-finding
 
-Oct 6
-: **Section**{: .label .label-purple }[Linked Lists](#)
-  : [Solution](#)
+Tue 7/11
+: **Lecture**{: .label .label-lecture }Lecture 8: Heuristic Evaluation
+  : [Slides](#)
+: **Reading**{: .label .label-gray }[How to Conduct a Heuristic Evaluation](https://www.nngroup.com/articles/how-to-conduct-a-heuristic-evaluation/)
+: **Reading**{: .label .label-gray }[10 Usability Heuristics for User Interface Design](https://www.nngroup.com/articles/ten-usability-heuristics/)
+: **Project 3**{: .label .label-proj }[Project 3 Due](#)
+: **Project 4**{: .label .label-proj }[Project 4 Released](#)
 
-Oct 7
-: [Resizing Arrays](#)
-  : [2.4](#), [2.5](#)
+Wed 7/12
+: **Lecture**{: .label .label-lecture }Lecture 9: Human Models and Interaction "Laws"
+  : [Slides](#)
 
-Oct 8
-: **Lab**{: .label .label-purple } [Resizing Arrays](#)
+Thu 7/13
+: **Lecture**{: .label .label-lecture }Lecture 10: Visual Design and Information Visualization
+  : [Slides](#)
 
-Oct 9
-: [Runtime Analysis](#)
-  : [8.1](#), [8.2](#), [8.3](#), [8.4](#)
-: **HW 2 due**{: .label .label-red }
+Fri 7/14
+: **Quiz 4 Due**{: .label .label-quiz}

@@ -2,22 +2,22 @@
 title: Week 5 - Beyond the Screen
 ---
 
-Oct 5
-: [Linked Lists & Encapsulation](#)
-  : [3.1](#), [2.2](#), [2.3](#)
+Mon 7/17
+: **Studio**{: .label .label-studio }Studio 5: Project 4 Workshop, Final Project Group-finding
 
-Oct 6
-: **Section**{: .label .label-purple }[Linked Lists](#)
-  : [Solution](#)
+Tue 7/18
+: **Lecture**{: .label .label-lecture }Lecture 11: Ubiquitous Computing
+  : [Slides](#)
 
-Oct 7
-: [Resizing Arrays](#)
-  : [2.4](#), [2.5](#)
+Wed 7/19
+: **Lecture**{: .label .label-lecture }Lecture 12: Social Computing
+  : [Slides](#)
 
-Oct 8
-: **Lab**{: .label .label-purple } [Resizing Arrays](#)
+Thu 7/20
+: **Lecture**{: .label .label-lecture }Lecture 13: Critical Design
+  : [Slides](#)
+: **Final Project**{: .label .label-proj }[Final Project Released](#)
 
-Oct 9
-: [Runtime Analysis](#)
-  : [8.1](#), [8.2](#), [8.3](#), [8.4](#)
-: **HW 2 due**{: .label .label-red }
+Fri 7/21
+: **Project 4**{: .label .label-proj }[Project 4 Due(#)
+: **Quiz 5 due**{: .label .label-quiz }

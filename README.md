@@ -1,33 +1,42 @@
 ---
 layout: home
-title: Just the Class
+title: CS 160 Summer 2023
 nav_exclude: true
 permalink: /:path/
 seo:
   type: Course
-  name: Just the Class
+  name: Home
 ---
 
 # CS 160: User Interface Design and Development
-### Summer 2023
+**Summer 2023**
 
-&nbsp;
+## Welcome to CS 160!
+CS 160 is the introductory course to the field of Human Computer Interaction (HCI). In this class, students will learn to design, prototype and evaluate user interfaces. Unlike most classes, CS 160 will not focus on any particular set of algorithmic techniques. Instead, students will learn techniques for user-centered interface design (e.g., prototyping, contextual inquiry, heuristic evaluation, etc.). This summer, we will learn how to use front-end web development technologies (HTML, CSS, and JavaScript) and a backend for prototyping.
 
-Welcome to CS 160! CS 160 is the introductory course to the field of Human Computer Interaction (HCI). In this class, students will learn to design, prototype and evaluate user interfaces. Unlike most classes, CS 160 will not focus on any particular set of algorithmic techniques. Instead, students will learn techniques for user-centered interface design (e.g., prototyping, contextual inquiry, heuristic evaluation, etc.). This summer, we will learn how to use front-end web development technologies (HTML, CSS, and JavaScript) and a backend for prototyping.
+The course features two parts: (1) five weeks of curriculum and practice, comprising lectures, studios, discussion sections, and 4 projects; and (2) three weeks of a final project.
 
-The course features two parts: (1) five weeks of curriculum and practice, and (2) three weeks of a final project.
+The instructors for this summer’s CS 160 course are Katherine Song, Ace Chen, and Hridhay Suresh. 
 
-The instructors for this summer’s CS 160 course are Ace Chen, Katherine Song, and Hridhay Suresh.
+[Official course listing](https://classes.berkeley.edu/content/2023-summer-compsci-160-001-lec-001)   
 
-## Upcoming Checkpoints
+## Getting Started
 
-This is the authoritative list of upcoming deadlines. Come to lecture and check on this list regularly for updates. Readings are due before class on that day. Other assignments are due at midnight Pacific Time on the end of that day.
+**Looking for an overview of course policies?** Check out the [syllabus](./syllabus).  
+**Looking for a schedule of classes and topics?** Check out the [schedule](./schedule).  
+**Want to see the weekly calendar with class times and locations?** Check out the [weekly calendar](./weekly).  
+**Curious to learn more about the course staff?** Check out the [staff page](./staff).  
+**Trying to submit an assignment?**  
+**Need to file an extension?**  
+**Need to file a request for an excused absence?**  
 
+<!---
 ##### Note: Topics and readings may change slightly. Links to slides and studio materials, as well as any recordings, will be posted after the class they are introduced.
 
 {% for module in site.modules %}
 {{ module }}
 {% endfor %}
+-->
 
 ## Credits
 

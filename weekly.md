@@ -1,0 +1,12 @@
+---
+layout: page
+title: Weekly Calendar
+description: The weekly event schedule.
+nav_order: 3
+---
+
+# Weekly Schedule
+
+{% for schedule in site.schedules %}
+{{ schedule }}
+{% endfor %}

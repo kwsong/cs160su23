@@ -1,23 +1,18 @@
 ---
-title: Basic Data Structures
+title: Week 7 - Final Project Week 2
 ---
 
-Oct 5
-: [Linked Lists & Encapsulation](#)
-  : [3.1](#), [2.2](#), [2.3](#)
+Mon 7/31
+: **Studio**{: .label .label-studio }Final Project Studio
 
-Oct 6
-: **Section**{: .label .label-purple }[Linked Lists](#)
-  : [Solution](#)
+Tue 8/1
+: **Studio**{: .label .label-studio }Final Project Studio
 
-Oct 7
-: [Resizing Arrays](#)
-  : [2.4](#), [2.5](#)
+Wed 8/2
+: **Studio**{: .label .label-studio }Final Project Studio
 
-Oct 8
-: **Lab**{: .label .label-purple } [Resizing Arrays](#)
+Thu 8/3
+: **Studio**{: .label .label-studio }Final Project Studio
 
-Oct 9
-: [Runtime Analysis](#)
-  : [8.1](#), [8.2](#), [8.3](#), [8.4](#)
-: **HW 2 due**{: .label .label-red }
+Fri 8/4
+: No class or deadlines!

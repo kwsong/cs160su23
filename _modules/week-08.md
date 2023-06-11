@@ -2,22 +2,17 @@
 title: Week 8 - Final Project Week 3
 ---
 
-Oct 5
-: [Linked Lists & Encapsulation](#)
-  : [3.1](#), [2.2](#), [2.3](#)
+Mon 8/7
+: **Studio**{: .label .label-studio }Final Project Studio
 
-Oct 6
-: **Section**{: .label .label-purple }[Linked Lists](#)
-  : [Solution](#)
+Tue 8/8
+: **Studio**{: .label .label-studio }Final Project Studio
 
-Oct 7
-: [Resizing Arrays](#)
-  : [2.4](#), [2.5](#)
+Wed 8/9
+: **Studio**{: .label .label-studio }Final Project Studio
 
-Oct 8
-: **Lab**{: .label .label-purple } [Resizing Arrays](#)
+Thu 8/10
+: **Studio**{: .label .label-studio }Final Project Critiques
 
-Oct 9
-: [Runtime Analysis](#)
-  : [8.1](#), [8.2](#), [8.3](#), [8.4](#)
-: **HW 2 due**{: .label .label-red }
+Fri 8/11
+: **Final Project**{: .label .label-proj }[Final Project Due](#)

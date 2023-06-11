@@ -1,7 +1,7 @@
 ---
 name: Hridhay Suresh
 role: Instructor
-email: me@example.com
+email: hsuresh@berkeley.edu
 website: https://kevinl.info
 photo: kevin.jpg
 pronouns: he/him

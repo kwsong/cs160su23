@@ -21,7 +21,7 @@ timeline:
 schedule:
   - name: Monday
     events:
-      - name: Studio
+      - name: Studio/Lecture
         start: 11:00 AM
         end: 12:30 PM
         location: Jacobs 310
@@ -35,7 +35,7 @@ schedule:
         location: Soda 320
   - name: Tuesday
     events:
-      - name: Lecture
+      - name: Studio/Lecture
         start: 11:00 AM
         end: 12:30 PM
         location: Jacobs 310
@@ -45,7 +45,7 @@ schedule:
         location: Soda 306
   - name: Wednesday
     events:
-      - name: Lecture
+      - name: Studio/Lecture
         start: 11:00 AM
         end: 12:30 PM
         location: Jacobs 310
@@ -59,7 +59,7 @@ schedule:
         location: Soda 320
   - name: Thursday
     events:
-      - name: Lecture
+      - name: Studio/Lecture
         start: 11:00 AM
         end: 12:30 PM
         location: Jacobs 310
