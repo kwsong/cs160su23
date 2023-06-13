@@ -108,9 +108,9 @@ We will use the following accounts for announcements, communication, submissions
 
 CS 160 is a hands-on class that requires collaborative work and discussion. As such, we expect everyone to attend all studios, all lectures, and 2 discussions a week (1 on Topic A, and 1 on Topic B).
 
-You are expected to attend lectures, studios, and discussions in their entirety. You are considered late if you are not physically present in the room by Berkeley time (10 min past the hour). Everything that we say in class may be included in any assessment and may be difficult to obtain through other channels. During or after lectures, studios, or discussions, you may be expected to complete an assignment that will be simple to complete for those in attendance. Lectures, studios, and discussions will not be recorded except in special circumstances.
+You are expected to attend lectures, studios, and discussions in their entirety. You are considered late if you are not physically present in the room by Berkeley time (10 min past the hour). Everything that we say in class may be included in any assessment and may be difficult to obtain through other channels. At a random point during lectures, studios, or discussions, you may be expected to complete an assignment that will be simple to complete for those in attendance. Lectures, studios, and discussions will not be recorded except in special circumstances.
 
-If you must miss a lecture, studio, or discussion due to an unforeseen health-related circumstance or emergency, you should submit an excused absence request before the beginning of class here (XXXXXXX). If your absence is excused, we will do our best to help you make up what you missed.
+If you must miss a lecture, studio, or discussion due to an unforeseen health-related circumstance or emergency, you should submit an [Excused Absence Request](https://docs.google.com/forms/d/e/1FAIpQLSc1Cu9lOdId3kL48Y8fbfAhaGPYJ-YvQl42NlirfLInUAyW9A/viewform) before the beginning of class. If your absence is excused, we will do our best to help you make up what you missed.
 
 You may have up to 3 unexcused absences (no questions asked) over the summer without incurring a grade penalty. Note that this includes absences across all lectures, studios, and discussions. For more *unexcused* absences, your final grade in the class will be impacted as follows:
 
@@ -126,7 +126,7 @@ We expect you to participate by contributing to activities in lecture, studio, a
 
 ---
 
-## Grades
+## Grading
 
 ### Grade Breakdown
 Final grades will be determined with the following breakdown:
@@ -158,12 +158,12 @@ The grading bins will follow the following bins:
 If the class grade distribution ends up being too low relative to [EECS grading guidelines](https://eecs.berkeley.edu/resources/faculty-staff/academic-personnel/grading-guidelines-undergrad), we may curve grades upwards. We will not curve grades down. We will take high participation into account for borderline cases!
 
 ### Regrade Requests
-If you want a quiz or project regraded, you must meet with your GSI or one of the instructors outside of class time with your assignment and a written description of why you believe the grade was unsatisfactory, no sooner than two days but within two weeks after receiving the grade. Staff will regrade the entire assignment; this means that your grade may potentially drop.
+If you want a quiz or project regraded, you submit a [Regrade Request](https://docs.google.com/forms/d/e/1FAIpQLScepeTAfC3OZ6Kv9eGezeeHVt9u2LXlZLAUYzYgfYFhn9k2HA/viewform), no sooner than two days but within two weeks after receiving the grade. Staff will regrade the entire assignment; this means that your grade may potentially drop.
 
 ---
 
 ## Deadlines and Extensions
-Deadlines are 11:59PM on the day listed in the [course schedule](../schedule). However, project deadlines are "squishy": if you need an extension, file an [Extension Request](#) *by the official deadline*. For individual projects (Projects 1 and 2), we will automatically approve extension requests of up to 24 hours (or 48 hours with documented DSP accommodations). For group projects (Projects 3, 4, and the Final Project), we will automatically approve extension requests of up to 48 hours; only 1 person in the group needs to submit a request. Extensions longer than these will be considered on a case-by-case basis. If you do not file an Extension Request by the deadline, you (and/or your team) will receive a 25% penalty per undocumented late day on that project. Quiz deadlines (11:59PM on Fridays) are "hard": you may submit an [Extension Request](#) if you have an extenuating circumstance, but consideration will be on a case-by-case basis; start your quizzes early (see [quizzes](#quizzes))!
+Deadlines are 11:59PM on the day listed in the [course schedule](../schedule). However, project deadlines are "squishy": if you need an extension, file an [Extension Request](https://docs.google.com/forms/d/e/1FAIpQLScQXEIBV7eZHYYihUmsK5C1eVPmt9lze5hp2UZ8wEZzgVPAGQ/viewform) *by the official deadline*. For individual projects (Projects 1 and 2), we will automatically approve extension requests of up to 24 hours (or 48 hours with documented DSP accommodations). For group projects (Projects 3 and 4), we will automatically approve extension requests of up to 48 hours; only 1 person in the group needs to submit a request. Extensions longer than these will be considered on a case-by-case basis. There will be no extensions on final project deliverables. If you do not file an Extension Request by the deadline, you (and/or your team) will receive a 25% penalty per undocumented late day on that project. Quiz deadlines (11:59PM on Fridays) are "hard": you may submit an [Extension Request](https://docs.google.com/forms/d/e/1FAIpQLScQXEIBV7eZHYYihUmsK5C1eVPmt9lze5hp2UZ8wEZzgVPAGQ/viewform) if you have an extenuating circumstance, but consideration will be on a case-by-case basis; start your quizzes early (see [quizzes](#quizzes))!
 
 ---
 
@@ -171,7 +171,6 @@ Deadlines are 11:59PM on the day listed in the [course schedule](../schedule). H
 
 ### Group Work
 When you work in pairs and groups, each group is responsible for making sure that all members are participating. After each project, you will be asked to describe the effort put in by each member of the group, both on specific tasks and as a fraction of the group’s effort. Make sure you discuss this regularly, to make sure your group is in agreement about the work breakdown.
-
 
 If a group member is not participating, the entire group must meet with the teaching staff. Effective group work (which entails some amount of conflict resolution) is a key skill for success in industry. We would like you to work through conflicts if at all possible, and we will devote some class time to this topic.
 
