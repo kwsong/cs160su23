@@ -31,7 +31,7 @@ For the first five weeks, **lecture** occurs three days a week (Tuesday, Wednesd
 Lecture slides will be posted before the beginning of each lecture. Lectures will not be recorded.
 
 ### Discussion Sections
-Each week, we will cover 2 topics ("A" and "B" in the Weekly Schedule) needed to complete current or upcoming assignments. While lectures and studio focus on introducing core HCI concepts, sections reinforce these concepts and help students improve technical skills. We will offer a total of 6 sections every week, allotting 3 sections per topic. You must attend 1 "A" section and 1 "B" section each week. See [below](#attendance-and-participation) for the detailed attendance policy.
+Each week, we will cover 2 topics ("A" and "B" in the Weekly Schedule) needed to complete current or upcoming assignments. While lectures and studio focus on introducing core HCI concepts, sections reinforce these concepts and help students improve technical skills. We will offer a total of 6 sections every week, allotting 3 sections per topic. You must attend 1 "A" section and 1 "B" section each week. See [below](#attendance-and-participation-policy) for the detailed attendance policy.
 
 Section slide PDFs will be available in the Section subfolder of the student-facing Drive folder at the end of each week.
 
@@ -41,7 +41,7 @@ Each week, we will post a handful of readings related to the material covered in
 There is no textbook for this class.
 
 ### Quizzes
-Every week for the first 6 weeks, there will be a quiz that is released on Monday and due on Friday (11:59PM). The quiz will cover content throughout the week, so we encourage you to complete it progressively during the week instead of waiting until the end. It will be a combination of multiple choice and free-form answer questions and will cover lecture material, readings from any prior week, and readings from the current week. You are permitted to draw upon your notes and any materials you find with proper citation, but you must complete quizzes on your own and are not permitted to work on them with other people.
+Every week for the first 5 weeks, there will be a quiz that is released on Monday and due on Friday (11:59PM). The quiz will cover content throughout the week, so we encourage you to complete it progressively during the week instead of waiting until the end. It will be a combination of multiple choice and free-form answer questions and will cover lecture material, readings from any prior week, and readings from the current week. You are permitted to draw upon your notes and any materials you find with proper citation, but you must complete quizzes on your own and are not permitted to work on them with other people.
 
 There is no midterm or final exam.
 
@@ -52,6 +52,9 @@ Projects allow students to engage in the design cycle and develop technical skil
 Using design methodologies and technical skills learned during the first five weeks, students will work in groups of 3-4 for the last three weeks to ideate, prototype and implement a final project. Students will choose their own design methodologies and project topic within a theme. During the last three weeks, final project studio will take the place of lecture and studio on Monday-Thursday. Final project studio provides in-class time for teams to work together and receive feedback from course staff.
 
 ### Midterm Check-in, Final Evaluation, and Peer Assessments
+There will be a midterm and final course survey distributed during Week 4 and 8, respectively, to help us understand how the course is going for you and how to improve it in future iterations. Completion of these surveys will allow you to drop your lowest quiz score (see [Grade Breakdown](#grade-breakdown)).
+
+At the end of each group project (Project 3, Project 4, and the Final Project), you will also be asked to complete a Peer Assessment letting us know how things went from your perspective. This will be a part of your project grade and will be used to adjust individual scores within groups, if necessary.
 
 ---
 
@@ -131,11 +134,11 @@ We expect you to participate by contributing to activities in lecture, studio, a
 ### Grade Breakdown
 Final grades will be determined with the following breakdown:
 
-**40% Projects:** The 4 projects (each worth 10% of your final grade) will be graded with a detailed rubric. These rubrics will be released with the grades. All submissions should adhere to the guidelines for full credit. Projects 3 and 4 are pair projects and will be submitted with a peer feedback form. Barring extreme circumstances that are brought to the attention of the instructors, pairs should expect to receive the same grade on pair projects.
+**40% Projects:** The 4 projects (each worth 10% of your final grade) will be graded with a detailed rubric. These rubrics will be released with the grades. All submissions should adhere to the guidelines for full credit. Projects 3 and 4 are pair projects and will be submitted with a peer feedback assessment. Barring unusual circumstances that are brought to the attention of the instructors, pairs should expect to receive the same grade on pair projects.
 
-**35% Final project:** Final projects take place during the last three weeks of class in assigned groups of 4-6. For grading, we will take into account several aspects of the final project process: teamwork and participation, observation/need-finding, evaluation, implementation, and deliverables (e.g., presentation, poster, article). A peer feedback form will be submitted with the final project that will help us determine if any individual grade adjustments must be made.
+**35% Final project:** Final projects take place during the last three weeks of class in assigned groups of 4-6. For grading, we will take into account several aspects of the final project process: teamwork and participation, observation/need-finding, evaluation, implementation, and deliverables (e.g., presentation, poster, article). A peer feedback assessment form will be submitted with the final project that will help us determine if any individual grade adjustments must be made.
 
-**25% Quizzes:** There will be 6 weekly quizzes, the lowest grade of which will be dropped as long as you complete a midterm and final course survey. If you complete the survey, each of your highest-scoring weekly quizzes will be worth 5% of your final grade. There is no midterm or final exam.
+**25% Quizzes:** There will be 5 weekly quizzes, the lowest grade of which will be dropped as long as you complete a midterm and final course survey. The average of your quiz scores will make up 25% of your final grade. There is no midterm or final exam.
 
 The grading bins will follow the following bins:
 
@@ -172,10 +175,10 @@ Deadlines are 11:59PM on the day listed in the [course schedule](../schedule). H
 ### Group Work
 When you work in pairs and groups, each group is responsible for making sure that all members are participating. After each project, you will be asked to describe the effort put in by each member of the group, both on specific tasks and as a fraction of the group’s effort. Make sure you discuss this regularly, to make sure your group is in agreement about the work breakdown.
 
-If a group member is not participating, the entire group must meet with the teaching staff. Effective group work (which entails some amount of conflict resolution) is a key skill for success in industry. We would like you to work through conflicts if at all possible, and we will devote some class time to this topic.
+If a group member is not participating, the entire group must meet with the teaching staff. Effective group work, which entails some amount of conflict resolution, is a key skill for success after this class. We would like you to work through conflicts if at all possible, and we will devote some class time to this topic.
 
 ### Laptops and Hand-Held Devices
-Laptops and hand-held devices are permitted for note-taking, documentation, and brainstorming during most lectures, studios, and sections. However, during critiques, you are expected to close laptops and put away hand-held devices so that you may give your peers your full attention. Failure to do repeatedly may result in a loss of attendance credit.
+Laptops and hand-held devices are permitted for note-taking, documentation, and brainstorming during most lectures, studios, and sections. However, during live critiques, you are expected to close laptops and put away hand-held devices so that you may give your peers your full attention. Failure to do repeatedly may result in a loss of attendance credit.
 
 ### Etiquette for Dropping the Course
 The majority of the work in this course is conducted in pairs and groups. Dropping the course in the middle of a project will have negative consequences for your peers. If you drop the course, do so only after seeing through your current project. Please commit to the course by the time you are assigned to your final project group.
@@ -190,7 +193,7 @@ Please note that as UC employees, all course instructors and tutors are “Respo
 ---
 
 ## Academic Integrity
-Design is difficult and requires a lot of time and energy — do not discount the work that designers, both in our class and beyond, put into what they make. Please show the respect that you would like others to give your work. While collaboration, references, and resources are encouraged, passing off someone else’s work as your own will not be tolerated. If you use someone else’s work in any way (ex: an icon library), you must include credit to them somewhere on your submitted file. Similarly, some assignments involve team collaboration. In these circumstances, your TA will be actively viewing your team’s file(s) and will be able to identify if you try to claim others’ work as your own. 
+Design is difficult and requires a lot of time and energy. Do not discount the work that designers, both in our class and beyond, put into what they make. Please show the respect that you would like others to give your work. While collaboration, references, and resources are encouraged, passing off someone else’s work as your own will not be tolerated. If you use someone else’s work in any way (e.g., an icon library), you must include credit to them somewhere on your submitted file. Similarly, some assignments involve team collaboration. In these circumstances, your TA will be actively viewing your team’s file(s) and will be able to identify if you try to claim others’ work as your own. 
 
 Any quiz, design, or report submitted by you and that bears your name is presumed to be your own original work that has not previously been submitted for credit in another course unless you obtain prior written approval to do so from the instructors. You may use words, images, or ideas authored by other individuals in publications, websites, or other sources, but only with proper attribution. If you are not clear about the expectations for completing an assignment or taking a quiz, be sure to ask the instructors. You should also keep in mind that as a member of the campus community you are expected to demonstrate integrity in all of your academic work and be evaluated on your own merits. The consequences of cheating and academic misconduct — including a formal discipline record and possible loss of future opportunities — are not worth the risk.
 
