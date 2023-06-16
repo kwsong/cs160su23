@@ -16,4 +16,4 @@ Thu 7/27
   : [Slides](#)
 
 Fri 7/28
-: No class or deadlines!
+: **Quiz 6 due**{: .label .label-quiz }

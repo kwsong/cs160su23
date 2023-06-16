@@ -6,5 +6,5 @@ website:
 photo: hridhay.jpg
 pronouns: he/him
 ---
-
+Office hours: Tuesday/Thursday 2-3:30pm  
 [Schedule an appointment](#){: .btn .btn-outline }

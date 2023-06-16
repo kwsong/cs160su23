@@ -4,7 +4,7 @@ title: Week 4 - Evaluation and Visual Design
 
 Mon 7/10
 : **Studio**{: .label .label-studio }Studio 4: Project 3 Workshop, Project 4 Partner-finding
-: **Reading**{: .label .label-reading }[Why I Want my Voice Assistant to Speak Spanglish](https://www.youtube.com/watch?v=ohXfjysQhx8)
+
 
 Tue 7/11
 : **Lecture**{: .label .label-lecture }Lecture 8: Heuristic Evaluation

@@ -41,7 +41,7 @@ Each week, we will post a handful of readings related to the material covered in
 There is no textbook for this class.
 
 ### Quizzes
-Every week for the first 5 weeks, there will be a quiz that is released on Monday and due on Friday (11:59PM). The quiz will cover content throughout the week, so we encourage you to complete it progressively during the week instead of waiting until the end. It will be a combination of multiple choice and free-form answer questions and will cover lecture material, readings from any prior week, and readings from the current week. You are permitted to draw upon your notes and any materials you find with proper citation, but you must complete quizzes on your own and are not permitted to work on them with other people.
+Every week for the first 6 weeks, there will be a quiz that is released on bCourses on Monday and due on Friday (11:59PM). The quiz will cover content throughout the week, so we encourage you to complete it progressively during the week instead of waiting until the end. It will be a combination of multiple choice and free-form answer questions and will cover lecture material, readings from any prior week, and readings from the current week. You are permitted to draw upon your notes and any materials you find with proper citation, but you must complete quizzes on your own and are not permitted to work on them with other people.
 
 There is no midterm or final exam.
 
@@ -138,7 +138,7 @@ Final grades will be determined with the following breakdown:
 
 **35% Final project:** Final projects take place during the last three weeks of class in assigned groups of 4-6. For grading, we will take into account several aspects of the final project process: teamwork and participation, observation/need-finding, evaluation, implementation, and deliverables (e.g., presentation, poster, article). A peer feedback assessment form will be submitted with the final project that will help us determine if any individual grade adjustments must be made.
 
-**25% Quizzes:** There will be 5 weekly quizzes, the lowest grade of which will be dropped as long as you complete a midterm and final course survey. The average of your quiz scores will make up 25% of your final grade. There is no midterm or final exam.
+**25% Quizzes:** There will be 6 weekly quizzes, the lowest grade of which will be dropped as long as you complete a midterm and final course survey. The average of your quiz scores will make up 25% of your final grade (so if you complete the midterm and final surveys, each quiz will be worth 5% of your total grade). There is no midterm or final exam.
 
 The grading bins will follow the following bins:
 
