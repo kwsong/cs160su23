@@ -11,7 +11,7 @@ Tue 6/20
 Wed 6/21
 : **Lecture**{: .label .label-lecture }Lecture 2: HTML/CSS/Javascript
   : [Slides](#)
-: **Reading**{: .label .label-reading }[The Design of Everyday Things (Chapter 1)](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/45295.pdf)
+: **Reading**{: .label .label-reading }[The Design of Everyday Things (read Chapter 1)](https://drive.google.com/file/d/1a23BfBZ8Dk97PBEwoTiYaM0Kw8WguVMT/view?usp=sharing)
 
 Thu 6/22
 : **Studio**{: .label .label-studio }Studio 1: Hands-on HTML/CSS/Javascript
