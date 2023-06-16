@@ -22,6 +22,11 @@ Thu 6/22
 
 Fri 6/23
 : **Project 1**{: .label .label-proj }Project 1 mid-point check-in due (push current state of code to Github repo)
+
+Sat 6/24
+: No class or deadlines!
+
+Sun 6/25
 : **QUIZ 1 DUE**{: .label .label-quiz }
 
 **Resources**
