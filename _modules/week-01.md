@@ -21,6 +21,7 @@ Thu 6/22
   : CW: The content of this reading may be challenging or triggering.
 
 Fri 6/23
+: **Project 1**{: .label .label-proj }Project 1 mid-point check-in due (push current state of code to Github repo)
 : **QUIZ 1 DUE**{: .label .label-quiz }
 
 **Resources**
