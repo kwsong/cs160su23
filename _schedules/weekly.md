@@ -33,6 +33,10 @@ schedule:
         start: 2:00 PM
         end: 3:00 PM
         location: Soda 320
+      - name: OH (Peitong)
+        start: 4:00 PM
+        end: 5:00 PM
+        location: TBD
   - name: Tuesday
     events:
       - name: Studio/Lecture
@@ -43,6 +47,10 @@ schedule:
         start: 3:00 PM
         end: 4:00 PM
         location: Soda 306
+      - name: OH (Christopher)
+        start: 4:00 PM
+        end: 5:00 PM
+        location: TBD
   - name: Wednesday
     events:
       - name: Studio/Lecture
