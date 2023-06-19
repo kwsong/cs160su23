@@ -29,7 +29,5 @@ Fri 6/30
 : **Quiz 2 Due**{: .label .label-quiz}
 
 **Resources**
-: [The Modern JavaScript Tutorial](https://javascript.info/)
-: [Codecademy: Intro to Javascript](https://www.codecademy.com/learn/introduction-to-javascript)
-: [Codecademy: Intro to JQuery](https://www.codecademy.com/learn/learn-jquery)
-: [Paper.js](http://paperjs.org/)
+: [Bootstrap Documentation](https://getbootstrap.com/docs/4.1/getting-started/introduction/)
+: [How to Run a Design Critique](https://scottberkun.com/essays/23-how-to-run-a-design-critique/)

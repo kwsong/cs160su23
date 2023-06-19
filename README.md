@@ -28,7 +28,7 @@ The instructors for this summer’s CS 160 course are Katherine Song, Ace Chen, 
 **Curious to learn more about the course staff?** Check out the [staff page](./staff).  
 **Trying to submit an assignment?** See the instructions listed in the project briefs linked on the [schedule](./schedule).  
 **Need to file an extension?** Complete an [Extension Request](https://airtable.com/shrZQ6R6MmCBeJIYn).  
-**Need to file a request for an excused absence?** Complete an [Excused Absence Request](https://docs.google.com/forms/d/e/1FAIpQLSc1Cu9lOdId3kL48Y8fbfAhaGPYJ-YvQl42NlirfLInUAyW9A/viewform).  
+**Need to file a request for an excused absence?** Complete an [Excused Absence Request](https://airtable.com/shrg6eiR03Xg7xknv).  
 **Want to request that a quiz or project be regraded?** Complete a [Regrade Request](https://docs.google.com/forms/d/e/1FAIpQLScepeTAfC3OZ6Kv9eGezeeHVt9u2LXlZLAUYzYgfYFhn9k2HA/viewform).  
 
 <!---

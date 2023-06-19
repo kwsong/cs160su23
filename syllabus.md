@@ -113,7 +113,7 @@ CS 160 is a hands-on class that requires collaborative work and discussion. As s
 
 You are expected to attend lectures, studios, and discussions in their entirety. You are considered late if you are not physically present in the room by Berkeley time (10 min past the hour). Everything that we say in class may be included in any assessment and may be difficult to obtain through other channels. At a random point during lectures, studios, or discussions, you may be expected to complete an assignment that will be simple to complete for those in attendance. Lectures, studios, and discussions will not be recorded except in special circumstances.
 
-If you must miss a lecture, studio, or discussion due to an unforeseen health-related circumstance or emergency, you should submit an [Excused Absence Request](https://docs.google.com/forms/d/e/1FAIpQLSc1Cu9lOdId3kL48Y8fbfAhaGPYJ-YvQl42NlirfLInUAyW9A/viewform) before the beginning of class. If your absence is excused, we will do our best to help you make up what you missed.
+If you must miss a lecture, studio, or discussion due to an unforeseen health-related circumstance or emergency, you should submit an [Excused Absence Request](https://airtable.com/shrg6eiR03Xg7xknv) before the beginning of class. If your absence is excused, we will do our best to help you make up what you missed.
 
 You may have up to 3 unexcused absences (no questions asked) over the summer without incurring a grade penalty. Note that this includes absences across all lectures, studios, and discussions. For more *unexcused* absences, your final grade in the class will be impacted as follows:
 
