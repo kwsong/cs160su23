@@ -17,8 +17,6 @@ Thu 6/22
 : **Studio**{: .label .label-studio }Studio 1: Hands-on HTML/CSS/Javascript
   : [Slides](#)
 : **Reading**{: .label .label-reading }[10 Ways Designers Can Support Social Justice (until page 7)](https://static1.squarespace.com/static/5d5d34e927fded000105ccc4/t/5db4be6fc494f4106d5a5826/1572126328315/DJ_2017_Issue3.pdf)
-: **Reading**{: .label .label-reading }[A Hundred Racist Designs](https://otlhogilegordon.medium.com/a-hundred-racist-designs-ff713cd5aa42) (Read 10)
-  : CW: The content of this reading may be challenging or triggering.
 
 Fri 6/23
 : **Project 1**{: .label .label-proj }Project 1 mid-point check-in due (push current state of code to Github repo)
@@ -32,6 +30,8 @@ Sun 6/25
 **Resources**
 : [Codeacademy: HTML](https://www.codecademy.com/learn/learn-html)
 : [Codeacademy: CSS](https://www.codecademy.com/learn/learn-css)
-: [Bootstrap Documentation](https://getbootstrap.com/docs/4.1/getting-started/introduction/)
+: [The Modern JavaScript Tutorial](https://javascript.info/)
+: [Codecademy: Intro to Javascript](https://www.codecademy.com/learn/introduction-to-javascript)
+: [Codecademy: Intro to JQuery](https://www.codecademy.com/learn/learn-jquery)
 : [Medium Post: Build a Personal Website with HTML and CSS](https://medium.com/@ianjsikes/build-a-personal-website-with-html-and-css-part-1-3013fb5dacd4)
-: [How to Run a Design Critique](https://scottberkun.com/essays/23-how-to-run-a-design-critique/)
+
