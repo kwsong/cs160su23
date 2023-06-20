@@ -88,7 +88,7 @@ As you will be developing web apps, it will be in your best interest to have reg
 
 We will also be using **Figma** in this course – [Figma](https://www.figma.com/education/) is free for students and educators, so be sure to sign up using your .edu email address and verify your account’s student status so you will have access to all of its features. 
 
-You may also find the following tools/softwares/resources helpful to your design or development processes. This is a living list, that we will update – if you have any suggestions for your classmates, tools that you are using or that make your life easier – share with the class via Slack and we’ll add them here!  
+You may also find the following tools/software/resources helpful to your design or development processes. This is a living list, that we will update – if you have any suggestions for your classmates, tools that you are using or that make your life easier – share with the class via Slack and we’ll add them here!  
 [Canva](https://www.canva.com/)  
 Google Slides / Microsoft Powerpoint  
 [Sublime Text](https://www.sublimetext.com/)  
@@ -161,7 +161,7 @@ The grading bins will follow the following bins:
 If the class grade distribution ends up being too low relative to [EECS grading guidelines](https://eecs.berkeley.edu/resources/faculty-staff/academic-personnel/grading-guidelines-undergrad), we may curve grades upwards. We will not curve grades down. We will take high participation into account for borderline cases!
 
 ### Regrade Requests
-If you want a quiz or project regraded, you submit a [Regrade Request](https://docs.google.com/forms/d/e/1FAIpQLScepeTAfC3OZ6Kv9eGezeeHVt9u2LXlZLAUYzYgfYFhn9k2HA/viewform), no sooner than two days but within two weeks after receiving the grade. Staff will regrade the entire assignment; this means that your grade may potentially drop.
+If you want a quiz or project regraded, you submit a [Regrade Request](https://airtable.com/shrcHTtRE2EoVYWIU), no sooner than two days but within two weeks after receiving the grade. Staff will regrade the entire assignment; this means that your grade may potentially drop.
 
 ---
 
