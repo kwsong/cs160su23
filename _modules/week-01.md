@@ -4,9 +4,9 @@ title: Week 1 - Introduction to Design & HCI
 
 Tue 6/20
 : **Lecture**{: .label .label-lecture } Lecture 1: Overview and Intro to Design/HCI 
-  : [Slides](#)
+  : [Slides](https://docs.google.com/presentation/d/19EixXdvkgYsvSwEL3knM-LgPJDRSGW179D9fpu-jtv0/edit?usp=sharing)
 : **Reading**{: .label .label-reading }[Course Syllabus](../syllabus)
-: **Project 1**{: .label .label-proj }[Project 1 Released](#)
+: **Project 1**{: .label .label-proj }[Project 1 Released](https://docs.google.com/document/d/1oVXrDPgkPZdaAuH_spkYRJKgVN7QAFXlopm9q7L9GMc/edit?usp=sharing)
 
 Wed 6/21
 : **Lecture**{: .label .label-lecture }Lecture 2: HTML/CSS/Javascript
@@ -19,13 +19,13 @@ Thu 6/22
 : **Reading**{: .label .label-reading }[10 Ways Designers Can Support Social Justice (until page 7)](https://static1.squarespace.com/static/5d5d34e927fded000105ccc4/t/5db4be6fc494f4106d5a5826/1572126328315/DJ_2017_Issue3.pdf)
 
 Fri 6/23
-: **Project 1**{: .label .label-proj }Project 1 midpoint check-in due (push current state of code to Github repo)
+: **Project 1**{: .label .label-proj }[Project 1 midpoint check-in due (push current state of code to GitHub repo)](https://docs.google.com/document/d/1oVXrDPgkPZdaAuH_spkYRJKgVN7QAFXlopm9q7L9GMc/edit?usp=sharing)
 
 Sat 6/24
 : No class or deadlines!
 
 Sun 6/25
-: **QUIZ 1 DUE**{: .label .label-quiz }
+: **QUIZ 1 DUE**{: .label .label-quiz }See [bCourses](https://bcourses.berkeley.edu/courses/1525535/assignments)
 
 **Resources**
 : [Codeacademy: HTML](https://www.codecademy.com/learn/learn-html)

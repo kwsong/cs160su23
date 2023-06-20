@@ -95,14 +95,15 @@ Google Slides / Microsoft Powerpoint
 [CodePen](https://codepen.io/)  
 [JSFiddle](https://jsfiddle.net/)    
 
-### Accounts
-We will use the following accounts for announcements, communication, submissions, and quizzes.
+### Accounts and Platforms
+We will use the following platforms for announcements, communication, submissions, and quizzes.
 
 | Platform     | Purpose         | Description     |
 |:-------------|:-------------|:-------------|
 | Slack | Discussion and Design Archive | This is our primary platform for communication, announcements, and project sharing. Make sure you join the course Slack, and are receiving notifications. You will document your projects on our Slack workspace. This will let us have a shared archive of everyone’s designs that everyone can view.|
 | bCourses  | Project Submissions and Quizzes    | You will submit links to your projects and receive grades through bCourses. Note that we will NOT use bCourses for announcements or communication. If you need to reach us, please find us on Slack, not bCourses.|
 | GitHub    | Project Code  | You will create and submit your project code repositories through our course Github Classroom. This lets us distribute starter code and keeps all the projects in the same place.|
+| [Google Drive](https://drive.google.com/drive/folders/1XxkAfRUi3h6OTTxOWuAo9XnBMlh2uA70?usp=drive_link) | Project Specs, Slides, and Readings | We will post project specs, lecture/discussion slides, and readings here. Most of these materials will also be linked to in the [schedule](../schedule) |
 | E-mail | Secondary Communication | If for some reason you need to e-mail us, please do so at [cs160@berkeley.edu](mailto:cs160@berkeley.edu). Individual e-mails are also listed on the [staff](../staff) page. However, **please use Slack when possible for the most timely responses.** |
 
 ---

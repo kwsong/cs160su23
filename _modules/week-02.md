@@ -17,7 +17,7 @@ Wed 6/28
   : [Slides](#)
 : **Reading**{: .label .label-reading }[Prototyping (Read "Paper Prototypes" and "Wizard of Oz" sections)](http://courses.csail.mit.edu/6.831/2014/readings/L10-prototyping/#paper-prototypes)
 \: **Reading**{: .label .label-reading }[Affordances and Metaphors](https://www.joelonsoftware.com/2000/04/18/affordances-and-metaphors/)
-: **Project 1**{: .label .label-proj }[Project 1 Due](#)
+: **Project 1**{: .label .label-proj }[Project 1 Due](https://docs.google.com/document/d/1oVXrDPgkPZdaAuH_spkYRJKgVN7QAFXlopm9q7L9GMc/edit?usp=sharing)
 
 Thu 6/29
 : **Lecture**{: .label .label-lecture }Lecture 5: User Research

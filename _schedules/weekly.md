@@ -61,10 +61,14 @@ schedule:
         start: 1:00 PM
         end: 2:00 PM
         location: Soda 306
-      - name: Section (Topic B)
-        start: 2:00 PM
-        end: 3:00 PM
+      - name: Section (B)
+        start: 2 PM
+        end: 3 PM
         location: Soda 320
+      - name: OH (Pradeep)
+        start: 2 PM
+        end: 3 PM
+        location: TBD
   - name: Thursday
     events:
       - name: Studio/Lecture

@@ -85,11 +85,13 @@
 
     .name {
       @extend .fs-3, .fw-700;
+      font-size: 12px !important;
     }
 
     .time,
     .location {
       @extend .fs-2;
+      font-size: 12px !important;
     }
 
     &.studio-lecture {
@@ -104,8 +106,30 @@
     &.section-topic-b {
       background-color: #46A6F0;
     }
+    &.section-b {
+      background-color: #46A6F0;
+      width: 50%;
+      .name {
+        font-size: 11px !important;
+      }
+      .time {
+        font-size: 8px !important;
+      }
+    }
     &.office-hours {
       background-color: #F08352;
+    }
+    &.oh-pradeep {
+      position:absolute;
+      display:block;
+      right:0;
+      width: 50%;
+      .name {
+        font-size: 11px !important;
+      }
+      .time, {
+          font-size: 8px !important;
+      }
     }
   }
 }
