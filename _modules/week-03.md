@@ -7,6 +7,7 @@ Mon 7/3
 : **Studio**{: .label .label-studio }Studio 3: Project 2 Peer Critique, Project 3 Intro, and Partner-Finding
 : **Reading**{: .label .label-reading }[What is Voice User Interface (VUI) Design?](https://www.kathrynsadler.com/vui-design)
 : **Reading**{: .label .label-reading }[Creating Voice Interaction Flows. UX Design for Voice Interfaces](https://uxdesign.cc/ux-design-for-voice-interfaces-part-ii-3b0056020cd3)
+: **Project 2**{: .label .label-proj }[Project 2 Slack Peer Critiques Due](https://docs.google.com/document/d/13_nTDcgD03QQxTWPt2i2IE48Q9eNrTHkogu3UFEbv6U/edit?usp=sharing)
 : **Project 3**{: .label .label-proj }[Project 3 Released](#)
 
 Tue 7/4
@@ -17,7 +18,7 @@ Wed 7/5
   : [Slides](#)
 : **Reading**{: .label .label-reading }[Embracing 4 Tensions in HCI Research with Marginalized People](https://www.smunson.com/portfolio/projects/Liang-HCIRwithMarginalizedPeople-Preprint.pdf) **(Read to Section 2.5)**
 : **Reading**{: .label .label-reading }[The Black Experience in Graphic Design: 1968 and 2020](https://letterformarchive.org/news/the-black-experience-in-graphic-design-1968-and-2020/)
-: **Project 2**{: .label .label-proj }[Project 2 Due](#)
+: **Project 2**{: .label .label-proj }[Project 2 Due](https://docs.google.com/document/d/13_nTDcgD03QQxTWPt2i2IE48Q9eNrTHkogu3UFEbv6U/edit?usp=sharing)
 
 Thu 7/6
 : **Lecture**{: .label .label-lecture }Lecture 7: Experiment Design, Collecting and Analyzing Qualitative/Quantitative Data

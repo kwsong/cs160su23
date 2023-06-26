@@ -5,7 +5,7 @@ title: Week 2 - Design Cycle, Prototyping, and User Research
 Mon 6/26
 : **Studio**{: .label .label-studio }Studio 2: Project 1 Workshop, Project 2 Intro
 : **Reading**{: .label .label-reading }[The Perfect Brainstorm](https://drive.google.com/file/d/1Zm83uc7uXnZd05mWT0fArIaYoEGlHPge/view?usp=drive_link)
-: **Project 2**{: .label .label-proj }[Project 2 Released](#)
+: **Project 2**{: .label .label-proj }[Project 2 Released](https://docs.google.com/document/d/13_nTDcgD03QQxTWPt2i2IE48Q9eNrTHkogu3UFEbv6U/edit?usp=sharing)
 
 Tue 6/27
 : **Lecture**{: .label .label-lecture }Lecture 3: The Design Cycle and Critiques
@@ -26,7 +26,8 @@ Thu 6/29
 : **Reading**{: .label .label-reading }[ Principles of Contextual Inquiry](https://drive.google.com/file/d/1ZrC2L5XoFgTAU0doacwzgRxI-6HGOT3L/view?usp=drive_link)
 
 Fri 6/30
-: **Quiz 2 Due**{: .label .label-quiz}See [bCourses](https://bcourses.berkeley.edu/courses/1525535/assignments)
+: **Project 2**{: .label .label-proj }[Project 2 Midpoint Check-in (Sketches) Due](https://docs.google.com/document/d/13_nTDcgD03QQxTWPt2i2IE48Q9eNrTHkogu3UFEbv6U/edit?usp=sharing)
+: **Quiz 2 Due**{: .label .label-quiz}See [bCourses](https://bcourses.berkeley.edu/courses/1525535/quizzes/2431472)
 
 **Resources**
 : [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
