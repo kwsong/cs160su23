@@ -36,7 +36,7 @@ schedule:
       - name: OH (Peitong)
         start: 4:00 PM
         end: 5:00 PM
-        location: TBD
+        location: Soda Alcove 341B 
   - name: Tuesday
     events:
       - name: Studio/Lecture
