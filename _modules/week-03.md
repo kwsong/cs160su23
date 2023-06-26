@@ -4,7 +4,7 @@ title: Week 3 - Interviewing and User Studies
 In observation of the Fourth of July, there is no class on Tuesday.
 
 Mon 7/3
-: **Studio**{: .label .label-studio }Studio 3: Project 3 Intro and Partner-finding
+: **Studio**{: .label .label-studio }Studio 3: Project 2 Peer Critique, Project 3 Intro, and Partner-Finding
 : **Reading**{: .label .label-reading }[What is Voice User Interface (VUI) Design?](https://www.kathrynsadler.com/vui-design)
 : **Reading**{: .label .label-reading }[Creating Voice Interaction Flows. UX Design for Voice Interfaces](https://uxdesign.cc/ux-design-for-voice-interfaces-part-ii-3b0056020cd3)
 : **Project 3**{: .label .label-proj }[Project 3 Released](#)
