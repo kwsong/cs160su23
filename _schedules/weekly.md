@@ -50,7 +50,7 @@ schedule:
       - name: OH (Christopher)
         start: 4:00 PM
         end: 5:00 PM
-        location: TBD
+        location: Cory 284
   - name: Wednesday
     events:
       - name: Studio/Lecture
