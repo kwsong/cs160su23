@@ -68,7 +68,7 @@ schedule:
       - name: OH (Pradeep)
         start: 2 PM
         end: 3 PM
-        location: TBD
+        location: Cory 284
   - name: Thursday
     events:
       - name: Studio/Lecture
