@@ -15,7 +15,7 @@ Tue 6/27
 
 Wed 6/28
 : **Lecture**{: .label .label-lecture }Lecture 4: Prototyping and Conceptual Models
-  : [Slides](#)
+  : [Slides](https://docs.google.com/presentation/d/1VURfrlNWXQXZF_Hb2xjJNJFD1tnIqwn6I3yHD5_Rb7Q/edit?usp=sharing)
 : **Reading**{: .label .label-reading }[Prototyping (Read "Paper Prototypes" and "Wizard of Oz" sections)](http://courses.csail.mit.edu/6.831/2014/readings/L10-prototyping/#paper-prototypes)
 : **Project 1**{: .label .label-proj }[Project 1 Due](https://docs.google.com/document/d/1oVXrDPgkPZdaAuH_spkYRJKgVN7QAFXlopm9q7L9GMc/edit?usp=sharing)
 
