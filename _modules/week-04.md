@@ -23,7 +23,15 @@ Wed 7/12
 Thu 7/13
 : **Lecture**{: .label .label-lecture }Lecture 10: Visual Design and Information Visualization
   : [Slides](#)
+: **Reading**{: .label .label-reading }[Visual Communication: Core Design Principles for Displaying Quantitative Information](http://www.perceptualedge.com/articles/Whitepapers/Visual_Communication.pdf)
 : **Reading**{: .label .label-reading }[All About Grid Systems](https://webdesign.tutsplus.com/articles/all-about-grid-systems--webdesign-14471)
 
 Fri 7/14
 : **Quiz 4 Due**{: .label .label-quiz}
+
+**Resources**
+: [A Non-Designer's Guide to Pairing Fonts](https://visme.co/blog/pairing-fonts/)
+: [Choosing Colors for Data Visualization](https://www.perceptualedge.com/articles/b-eye/choosing_colors.pdf)
+: [Icon Usability](https://www.nngroup.com/articles/icon-usability/)
+: [Top 10 Beautiful Google Font Combinations](https://inkbotdesign.com/google-font-combinations-mixing-typefaces/)
+: [How the Rainbow Color Map Misleads](https://eagereyes.org/basics/rainbow-color-map)

@@ -21,7 +21,7 @@ Wed 6/28
 
 Thu 6/29
 : **Lecture**{: .label .label-lecture }Lecture 5: User Research
-  : [Slides](#)
+  : [Slides](https://docs.google.com/presentation/d/1Z7PZ4vO16DmEpXxDdGloM1k8uMjYVJpCgnDLitHfFuM/edit)
 : **Reading**{: .label .label-reading }[10 Cognitive Biases to Avoid in User Research](https://uxdesign.cc/10-cognitive-biases-to-avoid-in-user-research-and-how-to-avoid-them-993aa397c8c6)
 : **Reading**{: .label .label-reading }[ Principles of Contextual Inquiry](https://drive.google.com/file/d/1ZrC2L5XoFgTAU0doacwzgRxI-6HGOT3L/view?usp=drive_link)
 

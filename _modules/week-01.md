@@ -18,7 +18,7 @@ Thu 6/22
 : **Reading**{: .label .label-reading }[10 Ways Designers Can Support Social Justice (until page 7)](https://static1.squarespace.com/static/5d5d34e927fded000105ccc4/t/5db4be6fc494f4106d5a5826/1572126328315/DJ_2017_Issue3.pdf)
 
 Fri 6/23
-: **Project 1**{: .label .label-proj }[Project 1 midpoint check-in due (push current state of code to GitHub repo)](https://docs.google.com/document/d/1oVXrDPgkPZdaAuH_spkYRJKgVN7QAFXlopm9q7L9GMc/edit?usp=sharing)
+: **Project 1**{: .label .label-proj }[Project 1 Midpoint Check-in Due (push current state of code to GitHub repo)](https://docs.google.com/document/d/1oVXrDPgkPZdaAuH_spkYRJKgVN7QAFXlopm9q7L9GMc/edit?usp=sharing)
 
 Sat 6/24
 : No class or deadlines!
