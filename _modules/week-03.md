@@ -16,8 +16,9 @@ Tue 7/4
 Wed 7/5
 : **Lecture**{: .label .label-lecture }Lecture 6: Interviewing, Ethics, and Personas
   : [Slides](#)
-: **Reading**{: .label .label-reading }[Embracing 4 Tensions in HCI Research with Marginalized People](https://www.smunson.com/portfolio/projects/Liang-HCIRwithMarginalizedPeople-Preprint.pdf) **(Read to Section 2.5)**
+: **Reading**{: .label .label-reading }[Reflexivity, positionality, and disclosure in HCI](https://medium.com/@caliang/reflexivity-positionality-and-disclosure-in-hci-3d95007e9916)
 : **Reading**{: .label .label-reading }[The Black Experience in Graphic Design: 1968 and 2020](https://letterformarchive.org/news/the-black-experience-in-graphic-design-1968-and-2020/)
+: **Reading**{: .label .label-reading }**(OPTIONAL)**[Embracing 4 Tensions in HCI Research with Marginalized People](https://www.smunson.com/portfolio/projects/Liang-HCIRwithMarginalizedPeople-Preprint.pdf)
 : **Project 2**{: .label .label-proj }[Project 2 Due](https://docs.google.com/document/d/13_nTDcgD03QQxTWPt2i2IE48Q9eNrTHkogu3UFEbv6U/edit?usp=sharing)
 
 Thu 7/6
