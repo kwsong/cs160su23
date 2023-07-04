@@ -4,11 +4,11 @@ title: Week 3 - Interviewing and User Studies
 In observation of the Fourth of July, there is no class on Tuesday.
 
 Mon 7/3
-: **Studio**{: .label .label-studio }Studio 3: Project 2 Peer Critique, Project 3 Intro, and Partner-Finding
-: **Reading**{: .label .label-reading }[What is Voice User Interface (VUI) Design?](https://www.kathrynsadler.com/vui-design)
-: **Reading**{: .label .label-reading }[Creating Voice Interaction Flows. UX Design for Voice Interfaces](https://uxdesign.cc/ux-design-for-voice-interfaces-part-ii-3b0056020cd3)
+: **Studio**{: .label .label-studio }Studio 3: Project 2 Peer Critique and Project 3 Intro
+  : [Slides](https://docs.google.com/presentation/d/1eNFgt83ylz-3zQTc-Pf9c9rxhW6uEwsA1kwLJhLCLk4/edit#slide=id.g254499e0e7a_1_0)
+: **Reading**{: .label .label-reading }[A Definitive Guide to Voice User Interface Design](https://userguiding.com/blog/voice-user-interface/)
 : **Project 2**{: .label .label-proj }[Project 2 Slack Peer Critiques Due](https://docs.google.com/document/d/13_nTDcgD03QQxTWPt2i2IE48Q9eNrTHkogu3UFEbv6U/edit?usp=sharing)
-: **Project 3**{: .label .label-proj }[Project 3 Released](#)
+: **Project 3**{: .label .label-proj }[Project 3 Released](https://docs.google.com/document/d/1GoUDslCdmPWlD_fH702DcPQPJDxUJynMLl-L77gfP-g/edit?usp=sharing)
 
 Tue 7/4
 : No class or section.
@@ -17,16 +17,15 @@ Wed 7/5
 : **Lecture**{: .label .label-lecture }Lecture 6: Interviewing, Ethics, and Personas
   : [Slides](#)
 : **Reading**{: .label .label-reading }[Reflexivity, positionality, and disclosure in HCI](https://medium.com/@caliang/reflexivity-positionality-and-disclosure-in-hci-3d95007e9916)
-: **Reading**{: .label .label-reading }[The Black Experience in Graphic Design: 1968 and 2020](https://letterformarchive.org/news/the-black-experience-in-graphic-design-1968-and-2020/)
-: **Reading**{: .label .label-reading }**(OPTIONAL)**[Embracing 4 Tensions in HCI Research with Marginalized People](https://www.smunson.com/portfolio/projects/Liang-HCIRwithMarginalizedPeople-Preprint.pdf)
+: **Reading**{: .label .label-reading }[The Racial Bias Built Into Photography](https://www.nytimes.com/2019/04/25/lens/sarah-lewis-racial-bias-photography.html?unlocked_article_code=yNaLVV3-uiXLsdJwMg5fRcXAhyYKcCBTrFl0LoX1cmK_bOmFLnpVqbH9SNhtK6IZoWFC43WpNe77LjoHijvIQZS-OEMz3dhP5I9Pbj1914US6Rw6BWMh6IeMhu-UJ71lk1oqKs-YMPmz36M76N2PwWrEYyBBFmT_8kKoUTOU3u_idqqHrdmEwSG9Dfot-8z5IjdIOh2EAVjHInLcSi6WCp6UPAiG_dABEaaaRfiu9y6Uqw7m5srvrW7XY1Gnguy7OIthazexWzuDFfK4xQi-lWYvodKr-gOMC7Gj_adF9uWv-cKQ_x7b3i8Ex122wjbw-Pv_Xni91soAzqlKlXG8VHrhGpNAIawOMFQ&smid=url-share)
+: **Reading**{: .label .label-reading }(optional) [Embracing 4 Tensions in HCI Research with Marginalized People](https://www.smunson.com/portfolio/projects/Liang-HCIRwithMarginalizedPeople-Preprint.pdf)
 : **Project 2**{: .label .label-proj }[Project 2 Due](https://docs.google.com/document/d/13_nTDcgD03QQxTWPt2i2IE48Q9eNrTHkogu3UFEbv6U/edit?usp=sharing)
 
 Thu 7/6
 : **Lecture**{: .label .label-lecture }Lecture 7: Experiment Design, Collecting and Analyzing Qualitative/Quantitative Data
   : [Slides](#)
-: **Reading**{: .label .label-reading }[Principles of Contextual Inquiry](https://drive.google.com/file/d/1KomuKGYFFKYJ3WbEHtGIWnndhooajf0D/view)
-: **Reading**{: .label .label-reading}[Cognitive Walkthroughs (Focus on "How To" Section)](https://www.usabilitybok.org/cognitive-walkthrough)
+: **Reading**{: .label .label-reading }[Doing Psychology Experiments (Read Chapters 2 & 12)](https://drive.google.com/file/d/1A6zH-7kRRc74STe7yPso0nHOS7BiHzgG/view?usp=sharing)
 
 Fri 7/7
-: **Reading**{: .label .label-reading }[Why I Want my Voice Assistant to Speak Spanglish](https://www.youtube.com/watch?v=ohXfjysQhx8)
-: **Quiz 3 Due**{: .label .label-quiz}
+: **Project 3**{: .label .label-proj }[Project 3 Midpoint Check-in Due](https://docs.google.com/document/d/1GoUDslCdmPWlD_fH702DcPQPJDxUJynMLl-L77gfP-g/edit?usp=sharing)
+: **Quiz 3 Due**{: .label .label-quiz}See [bCourses](https://bcourses.berkeley.edu/courses/1525535/quizzes/2431908)
