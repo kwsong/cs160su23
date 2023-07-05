@@ -15,7 +15,7 @@ Tue 7/4
 
 Wed 7/5
 : **Lecture**{: .label .label-lecture }Lecture 6: Interviewing, Ethics, and Personas
-  : [Slides](#)
+  : [Slides](https://docs.google.com/presentation/d/13oirBbL404ll2OVVuldAPokzvv7L6-z2_7yJAbem8mk/edit?usp=sharing)
 : **Reading**{: .label .label-reading }[Reflexivity, positionality, and disclosure in HCI](https://medium.com/@caliang/reflexivity-positionality-and-disclosure-in-hci-3d95007e9916)
 : **Reading**{: .label .label-reading }[The Racial Bias Built Into Photography](https://www.nytimes.com/2019/04/25/lens/sarah-lewis-racial-bias-photography.html?unlocked_article_code=yNaLVV3-uiXLsdJwMg5fRcXAhyYKcCBTrFl0LoX1cmK_bOmFLnpVqbH9SNhtK6IZoWFC43WpNe77LjoHijvIQZS-OEMz3dhP5I9Pbj1914US6Rw6BWMh6IeMhu-UJ71lk1oqKs-YMPmz36M76N2PwWrEYyBBFmT_8kKoUTOU3u_idqqHrdmEwSG9Dfot-8z5IjdIOh2EAVjHInLcSi6WCp6UPAiG_dABEaaaRfiu9y6Uqw7m5srvrW7XY1Gnguy7OIthazexWzuDFfK4xQi-lWYvodKr-gOMC7Gj_adF9uWv-cKQ_x7b3i8Ex122wjbw-Pv_Xni91soAzqlKlXG8VHrhGpNAIawOMFQ&smid=url-share)
 : **Reading**{: .label .label-reading }(optional) [Embracing 4 Tensions in HCI Research with Marginalized People](https://www.smunson.com/portfolio/projects/Liang-HCIRwithMarginalizedPeople-Preprint.pdf)
