@@ -23,7 +23,7 @@ Wed 7/5
 
 Thu 7/6
 : **Lecture**{: .label .label-lecture }Lecture 7: Experiment Design, Collecting and Analyzing Qualitative/Quantitative Data
-  : [Slides](#)
+  : [Slides](https://docs.google.com/presentation/d/1zu43O7GllXHJWWovYffAebQvPhHz4N9FtHTkjm5NiPU/edit?usp=sharing)
 : **Reading**{: .label .label-reading }[Doing Psychology Experiments (Read Chapters 2 & 12)](https://drive.google.com/file/d/1A6zH-7kRRc74STe7yPso0nHOS7BiHzgG/view?usp=sharing)
 
 Fri 7/7
