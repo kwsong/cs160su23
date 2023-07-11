@@ -10,6 +10,7 @@ Tue 7/18
   : [Slides](#)
 : **Reading**{: .label .label-reading }[Tangible Bits: Towards Seamless Interfaces between People, Bits and Atoms](https://dl.acm.org/doi/10.1145/258549.258715)
 : **Reading**{: .label .label-reading }[How Bodies Matter: Five THemes for Interaction Design](https://drive.google.com/file/d/1sk8ak4ucNNAAgGLf6Ukx_SnuSuSOMUQX/view)
+: **Project 4**{: .label .label-proj }[Project 4 Midpoint Check-in (Figma Prototype) Due](https://docs.google.com/document/d/1MDQuKbWKq15uJ1vhHZk11o4Ttqq3OoT0DF9lSte3nKw/edit?usp=sharing)
 
 Wed 7/19
 : **Lecture**{: .label .label-lecture }Lecture 12: Social Computing
@@ -23,5 +24,5 @@ Thu 7/20
 : **Final Project**{: .label .label-proj }[Final Project Released](#)
 
 Fri 7/21
-: **Project 4**{: .label .label-proj }[Project 4 Due](#)
+: **Project 4**{: .label .label-proj }[Project 4 Due](https://docs.google.com/document/d/1MDQuKbWKq15uJ1vhHZk11o4Ttqq3OoT0DF9lSte3nKw/edit?usp=sharing)
 : **Quiz 5 due**{: .label .label-quiz }

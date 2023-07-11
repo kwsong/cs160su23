@@ -8,10 +8,10 @@ Mon 7/10
 
 Tue 7/11
 : **Lecture**{: .label .label-lecture }Lecture 8: Heuristic Evaluation and Visual Design
-  : [Slides](#)
+  : [Slides](https://docs.google.com/presentation/d/1z0Dyb0z1EH6szuNNfvzbbQ2F5Fqn5BAoJUJTQ4lKY9s/edit?usp=sharing)
 : **Reading**{: .label .label-reading }[How to Conduct a Heuristic Evaluation](https://www.nngroup.com/articles/how-to-conduct-a-heuristic-evaluation/)
 : **Reading**{: .label .label-reading }[10 Usability Heuristics for User Interface Design](https://www.nngroup.com/articles/ten-usability-heuristics/)
-: **Project 4**{: .label .label-proj }[Project 4 Released](#)
+: **Project 4**{: .label .label-proj }[Project 4 Released](https://docs.google.com/document/d/1MDQuKbWKq15uJ1vhHZk11o4Ttqq3OoT0DF9lSte3nKw/edit?usp=sharing)
 
 Wed 7/12
 : **Lecture**{: .label .label-lecture }Lecture 9: Visual Design (cont) and Information Visualization
