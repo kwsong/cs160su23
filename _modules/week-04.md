@@ -15,7 +15,7 @@ Tue 7/11
 
 Wed 7/12
 : **Lecture**{: .label .label-lecture }Lecture 9: Visual Design (cont) and Information Visualization
-  : [Slides](#)
+  : [Slides](https://docs.google.com/presentation/d/1j-ywz1p9T_jxXRoQllfoF2Ffaz0ZEyay5vNoebY2K_M/edit?usp=sharing)
 : **Reading**{: .label .label-reading }[Visual Communication: Core Design Principles for Displaying Quantitative Information](http://www.perceptualedge.com/articles/Whitepapers/Visual_Communication.pdf)
 : **Reading**{: .label .label-reading }[All About Grid Systems](https://webdesign.tutsplus.com/articles/all-about-grid-systems--webdesign-14471)
 : **Project 3**{: .label .label-proj }[Project 3 Due](https://docs.google.com/document/d/1GoUDslCdmPWlD_fH702DcPQPJDxUJynMLl-L77gfP-g/edit?usp=sharing)
