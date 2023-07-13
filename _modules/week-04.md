@@ -22,7 +22,7 @@ Wed 7/12
 
 Thu 7/13
 : **Lecture**{: .label .label-lecture }Lecture 10: Human Models and Interaction "Laws"
-  : [Slides](#)
+  : [Slides](https://docs.google.com/presentation/d/11RauQe1kdV3JA90hA4xlRasL2GnijjtN/edit?usp=sharing&ouid=112604426492103286979&rtpof=true&sd=true)
 : **Reading**{: .label .label-reading }[The Model Human Processor (Read Section 2.1)](https://drive.google.com/file/d/1nyEJi3EVMs7AONeO1zUbmHCvHsaXvbTd/view)
 
 Fri 7/14
