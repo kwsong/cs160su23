@@ -12,7 +12,8 @@ Wed 8/2
 : **Studio**{: .label .label-studio }Final Project Studio
 
 Thu 8/3
-: **Studio**{: .label .label-studio }Final Project Studio
+: **Lecture**{: .label .label-lecture }Lecture 15: Special Topics
+  : [Slides](#)
 
 Fri 8/4
-: No class or deadlines!
+: **Final Project**{: .label .label-proj }[Final Project Deliverable 2 Due (Slack)](#)
