@@ -26,7 +26,7 @@ Thu 7/13
 : **Reading**{: .label .label-reading }[The Model Human Processor (Read Section 2.1)](https://drive.google.com/file/d/1nyEJi3EVMs7AONeO1zUbmHCvHsaXvbTd/view)
 
 Fri 7/14
-: **Quiz 4 Due**{: .label .label-quiz}
+: **Quiz 4 Due**{: .label .label-quiz} See [bCourses]()
 
 **Resources**
 : [A Non-Designer's Guide to Pairing Fonts](https://visme.co/blog/pairing-fonts/)
