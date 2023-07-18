@@ -4,11 +4,11 @@ title: Week 5 - Beyond the Screen
 
 Mon 7/17
 : **Studio**{: .label .label-studio }Studio 5: Project 4 Workshop
-: **Final Project**{: .label .label-proj }[Final Project Group Selection Form Released](#)
+: **Final Project**{: .label .label-proj }[Final Project Group Selection Form Released](https://airtable.com/appPa8qmBuak7pi4T/shrlSdEkTTJKaGVVR)
 
 Tue 7/18
 : **Lecture**{: .label .label-lecture }Lecture 11: Social Computing
-  : [Slides](#)
+  : [Slides](https://docs.google.com/presentation/d/1PfcDYojLoE0yiTb-a9mrO0Fil24sUke2-MvWSufH9f4/edit?usp=drive_link)
 : **Reading**{: .label .label-reading }[Groupware and Social Dynamics](https://drive.google.com/file/d/1UnUvVmxjTKVhlpOl2Yjb3d5s9Obe7pm7/view?usp=drive_link)
 : **Reading**{: .label .label-reading }[Soylent: A Word Processor with a Crowd Inside](https://drive.google.com/file/d/1MU7uXHdTG-sQde4KGx-A9F7e7rmVjBBf/view?usp=drive_link)
 : **Project 4**{: .label .label-proj }[Project 4 Midpoint Check-in (Figma Prototype) Due](https://docs.google.com/document/d/1MDQuKbWKq15uJ1vhHZk11o4Ttqq3OoT0DF9lSte3nKw/edit?usp=sharing)
