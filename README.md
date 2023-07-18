@@ -21,6 +21,7 @@ The instructors for this summer’s CS 160 course are Katherine Song, Ace Chen, 
 [Official course listing](https://classes.berkeley.edu/content/2023-summer-compsci-160-001-lec-001)   
 
 ## For Current Students
+**Looking to check attendance?** See [Attendance Checker](https://bit.ly/cs160attendance)
 **Trying to submit a project?** See the instructions in the project briefs linked on the [schedule](./schedule).  
 **Looking to take a quiz?** Quizzes are released on Monday on [bCourses](https://bcourses.berkeley.edu/courses/1525535/quizzes).  
 **Need to file an extension?** Complete an [Extension Request](https://airtable.com/shrZQ6R6MmCBeJIYn).  

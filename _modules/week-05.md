@@ -31,7 +31,7 @@ Fri 7/21
 : **Project 4**{: .label .label-proj }[Project 4 Due](https://docs.google.com/document/d/1MDQuKbWKq15uJ1vhHZk11o4Ttqq3OoT0DF9lSte3nKw/edit?usp=sharing)
 : **Quiz 5 due**{: .label .label-quiz } See [bCourses](https://bcourses.berkeley.edu/courses/1525535/quizzes/2433001)
 
-**Resources and More Readings**
+**Resources**
 : [Which Humans? Innovation, Equity, and Imagination in Human-Centered Design](https://www.youtube.com/watch?v=kDcz44ifdQw)
 : [Tangible Bits: Towards Seamless Interfaces between People, Bits and Atoms](https://drive.google.com/file/d/1PUodFAoXfEFcnqt83fCzuWSgfQIMOYCA/view?usp=drive_link)
 : [A Vehicle for Research: Using Street Sweepers to Explore the Landscape of Environmental Community Action](http://www.paulos.net/papers/2009/sweeper_chi09.pdf)
