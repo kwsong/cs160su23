@@ -17,7 +17,7 @@ Wed 7/19
 : **Lecture**{: .label .label-lecture }Lecture 12: Research Through Design and Critical Design
   : [Slides](#)
 : **Reading**{: .label .label-reading }[Research Through Design as a Method for Interaction Design Research in HCI](https://drive.google.com/file/d/1vsDlz4d4stXAT1vo_c53tSjO2QebXMzR/view?usp=drive_link)
-: **Final Project**{: .label .label-proj }[Final Project Group Selection Form Due](#)
+: **Final Project**{: .label .label-proj }[Final Project Group Selection Form Due](https://airtable.com/appPa8qmBuak7pi4T/shrlSdEkTTJKaGVVR)
 
 Thu 7/20
 : **Lecture**{: .label .label-lecture }Lecture 13: Ubiquitous and Tangible Computing
@@ -30,6 +30,9 @@ Thu 7/20
 Fri 7/21
 : **Project 4**{: .label .label-proj }[Project 4 Due](https://docs.google.com/document/d/1MDQuKbWKq15uJ1vhHZk11o4Ttqq3OoT0DF9lSte3nKw/edit?usp=sharing)
 : **Quiz 5 due**{: .label .label-quiz } See [bCourses](https://bcourses.berkeley.edu/courses/1525535/quizzes/2433001)
+
+Sun 7/23
+: **Project 3**{: .label .label-proj }[Project 3 Peer Evaluation Form Due](bit.ly/proj3feedback)
 
 **Resources**
 : [Which Humans? Innovation, Equity, and Imagination in Human-Centered Design](https://www.youtube.com/watch?v=kDcz44ifdQw)
