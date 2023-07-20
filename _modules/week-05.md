@@ -21,7 +21,7 @@ Wed 7/19
 
 Thu 7/20
 : **Lecture**{: .label .label-lecture }Lecture 13: Ubiquitous and Tangible Computing
-  : [Slides](#)
+  : [Slides](https://docs.google.com/presentation/d/1MpgA0QM5a1tdTdhnIVZMYhjE_c4dOUeV0ige9ADewfg/edit?usp=sharing)
 : **Reading**{: .label .label-reading }[The Computer for the 21st Century](https://drive.google.com/file/d/1FonfUQw24R7xdIgkG8QIjB_bI_QHbPmq/view?usp=drive_link)
 : **Reading**{: .label .label-reading }[How Bodies Matter: Five Themes for Interaction Design](https://drive.google.com/file/d/1Oi7iXjk4DWYJzGDJiHLelptlv5R42Iq_/view?usp=drive_link)
 : **Final Project**{: .label .label-proj }[Final Project Released](https://docs.google.com/document/d/1_5ATl3LpZPSpq-tS1OZ2o5ny9sXoNLdanByHLQAexAs/edit?usp=sharing)
