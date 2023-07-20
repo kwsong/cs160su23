@@ -24,8 +24,7 @@ Thu 7/20
   : [Slides](#)
 : **Reading**{: .label .label-reading }[The Computer for the 21st Century](https://drive.google.com/file/d/1FonfUQw24R7xdIgkG8QIjB_bI_QHbPmq/view?usp=drive_link)
 : **Reading**{: .label .label-reading }[How Bodies Matter: Five Themes for Interaction Design](https://drive.google.com/file/d/1Oi7iXjk4DWYJzGDJiHLelptlv5R42Iq_/view?usp=drive_link)
-
-: **Final Project**{: .label .label-proj }[Final Project Released](#)
+: **Final Project**{: .label .label-proj }[Final Project Released](https://docs.google.com/document/d/1_5ATl3LpZPSpq-tS1OZ2o5ny9sXoNLdanByHLQAexAs/edit?usp=sharing)
 
 Fri 7/21
 : **Project 4**{: .label .label-proj }[Project 4 Due](https://docs.google.com/document/d/1MDQuKbWKq15uJ1vhHZk11o4Ttqq3OoT0DF9lSte3nKw/edit?usp=sharing)
