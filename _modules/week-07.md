@@ -16,4 +16,5 @@ Thu 8/3
   : [Slides](#)
 
 Fri 8/4
-: **Final Project**{: .label .label-proj }[Final Project Deliverable 2 Due (Slack)](#)
+: **Final Project**{: .label .label-proj }[Final Project Deliverable 2 Due (Slack)](https://docs.google.com/document/d/1_5ATl3LpZPSpq-tS1OZ2o5ny9sXoNLdanByHLQAexAs/edit?usp=sharing)
+: **Quiz 6 due**{: .label .label-quiz }
