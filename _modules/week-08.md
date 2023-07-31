@@ -15,4 +15,5 @@ Thu 8/10
 : **Studio**{: .label .label-studio }Final Project Critiques
 
 Fri 8/11
-: **Final Project**{: .label .label-proj }[Final Project Due](#)
+: **Final Project**{: .label .label-proj }[Final Project Due](https://docs.google.com/document/d/1_5ATl3LpZPSpq-tS1OZ2o5ny9sXoNLdanByHLQAexAs/edit?usp=sharing)
+: **Quiz 6 due**{: .label .label-quiz }
