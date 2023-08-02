@@ -23,12 +23,11 @@ The instructors for this summer’s CS 160 course are Katherine Song, Ace Chen, 
 ## For Current Students
 **Looking to check attendance?** See [Attendance Checker](https://bit.ly/cs160attendance)
 **Trying to submit a project?** See the instructions in the project briefs linked on the [schedule](./schedule).  
-**Looking to take a quiz?** Quizzes are released on Monday on [bCourses](https://bcourses.berkeley.edu/courses/1525535/quizzes).  
-**Need to file an extension?** Complete an [Extension Request](https://airtable.com/shrZQ6R6MmCBeJIYn).  
+**Looking to take a quiz?** Quizzes are released on Monday on [bCourses](https://bcourses.berkeley.edu/courses/1525535/quizzes).   
 **Need to file a request for an excused absence?** Complete an [Excused Absence Request](https://airtable.com/shrg6eiR03Xg7xknv).  
 **Want to request that a quiz or project be regraded?** Complete a [Regrade Request](https://airtable.com/shrcHTtRE2EoVYWIU).  
 **Looking for slides or readings?** Check the [Google Drive](https://drive.google.com/drive/folders/1XxkAfRUi3h6OTTxOWuAo9XnBMlh2uA70?usp=drive_link).  
-**Looking for office hours?** See the [Rooms & Times](./weekly) page for TA office hours (for project help), or [schedule an appointment](./staff) with one of the instructors.  
+**Looking for office hours?** See the [Rooms & Times](./weekly) page for TA office hours (for project help), or [schedule an appointment](./staff) with one of the instructors.
 
 ## Site Navigation
 **Looking for an overview of course policies?** Check out the [syllabus](./syllabus).  

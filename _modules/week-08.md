@@ -4,10 +4,10 @@ title: Week 8 - Final Project Week 3
 
 Mon 8/7
 : **Studio**{: .label .label-studio }Final Project Studio
-: **Quiz 6 due**{: .label .label-quiz }
 
 Tue 8/8
 : **Studio**{: .label .label-studio }Final Project Studio
+: **Quiz 6 due**{: .label .label-quiz } See [bCourses] (https://bcourses.berkeley.edu/courses/1525535/quizzes/2434597)
 
 Wed 8/9
 : **Studio**{: .label .label-studio }Final Project Studio

@@ -19,4 +19,3 @@ Thu 7/27
 
 Fri 7/28
 : **Final Project**{: .label .label-proj }[Final Project Deliverable 1 Due (Slack)](https://docs.google.com/document/d/1_5ATl3LpZPSpq-tS1OZ2o5ny9sXoNLdanByHLQAexAs/edit?usp=sharing)
-: **Quiz 6 due**{: .label .label-quiz }
